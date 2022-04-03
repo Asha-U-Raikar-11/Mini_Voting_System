@@ -1,9 +1,9 @@
 #certificates
 
-Sololearn
+*Sololearn
 
-NDG Linux
+*NDG Linux
 
-Github
+*Github
 
-First day Github-screenshot
+*First day Github-screenshot
