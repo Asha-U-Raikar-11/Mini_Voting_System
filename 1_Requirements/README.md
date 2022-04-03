@@ -1,6 +1,6 @@
 # Introduction
 
- The Online Voting System is a software application which avoids more manual hours that need to spend in record keeping and calculating votes.
+ The Online Voting System is a simple project which avoids more manual hours that need to spend in record keeping and calculating votes.
 In this system people who have citizenship and whose age is above 18 years of age can vote...
 
 # Problem Statement
